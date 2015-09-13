@@ -15,6 +15,10 @@
         <activity
             android:name=".HeaderRecyclerActivity"
             android:label="@string/app_name"/>
+
+        <activity
+            android:name=".FooterRecyclerActivity"
+            android:label="@string/app_name"/>
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name" >

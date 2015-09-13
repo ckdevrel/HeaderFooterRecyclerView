@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecylerView/HeaderFooterRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecyclerView/HeaderFooterRecyclerView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecylerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/classes-56203650c247d1e5c8ef5e1ec81f99396907e0d8.jar" />
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecyclerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/classes-e38428092789ff09763bd9da67bd822324ea0340.jar" />
+    </item>
+    <item
+        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecyclerView/HeaderFooterRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecyclerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-6d221eaae81c11a030195822c29e4a3aa5b922d2.jar" />
     </item>
     <item
         jar="/Users/Chandru-MacBook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecylerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e19e4eec662a56a37fece564ecd6a53704ffe38f.jar" />
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecyclerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e19e4eec662a56a37fece564ecd6a53704ffe38f.jar" />
     </item>
     <item
-        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecylerView/HeaderFooterRecyclerView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecylerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/classes-cab80dcd897a6f81ed033039f242175585a7310c.jar" />
-    </item>
-    <item
-        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecylerView/HeaderFooterRecyclerView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecyclerView/HeaderFooterRecyclerView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
-        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecylerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/classes-242f5fcae3e63880e4fcf5f8eb903144090e1614.jar" />
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecyclerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/classes-1405092e89cd993d22d773cf4df264ae01e74681.jar" />
     </item>
     <item
-        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecylerView/HeaderFooterRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecyclerView/HeaderFooterRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecylerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-242965f4ff7f429fcd19995ca43d5dca8bb98b35.jar" />
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Chandru-MacBook/Desktop/Android/Android/PROJECTS/TakeOffBlog/HeaderFooterRecyclerView/HeaderFooterRecyclerView/app/build/intermediates/pre-dexed/debug/classes-2bb05bbcca7a64d3661799ed44a10db9cebd9253.jar" />
     </item>
 
 </items>

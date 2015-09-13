@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             case R.id.btn_footer:
 
-                Intent footerIntent = new Intent(MainActivity.this,HeaderFooterRecyclerActivity.class);
+                Intent footerIntent = new Intent(MainActivity.this,FooterRecyclerActivity.class);
                 startActivity(footerIntent);
 
                 break;
