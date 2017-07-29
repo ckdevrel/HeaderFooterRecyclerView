@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/jek/Desktop/HeaderFooterRecyclerView-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/jek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/9d50f5627c1a37ebda0f2d3b5fa983bb/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]
